@@ -1,0 +1,45 @@
+html{
+    background-color: darkgray;
+}
+#patna{
+   height: 500px; 
+   width: 500px;
+   border-width: 5pt;
+   border-style: solid;
+   border-color: black;
+   align-items: center;
+   opacity: 90%;
+}
+h1{
+    text-decoration: underline;
+    font-style: italic;
+    text-align: left;
+}
+h2{
+    text-decoration: underline;
+    font-style: oblique;
+
+}
+p{
+    color: maroon;
+
+}
+li{
+    color: crimson;
+    font-size: 20pt;
+    font-family: cursive;
+    font-style: italic;
+    background-color: bisque;
+    text-align: center;
+    border-radius: 30pt;
+}
+#shri{
+    color: black;
+    font-family: serif;
+    font-style: oblique;
+    text-align: center;
+    background-color: blueviolet;
+    border-radius: 10pt;
+    
+    
+}
